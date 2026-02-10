@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aideym
 - 👀 I’m interested in gadgets involving cad and 3d printing
-- 🌱 I’m currently learning ..f360.
+- 🌱 I use Onshape
 - 💞️ I’m looking to collaborate on ..bicycletech .
 - 📫 How to reach me ...
 
